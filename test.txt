@@ -1,1 +1,94 @@
-test file for source tree boss
+test file for source tree boss mans
+
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0"/>
+            <meta name="description" content="Clickfil will save you money on heating oil">
+            <meta name="keywords" content="Clickfil, heating oil, savings, gift card.">
+            <title> Clickfil </title>
+            <link rel="icon" type="image/png" href="images/clickfilTruck.png" />
+            <link rel="stylesheet" type="text/css" href="css/style.css">
+            <link rel="stylesheet" type="text/css" media="only screen and (min-width:568px) and (max-width:914px)" href="css/style_medium.css">
+            <link rel="stylesheet" type="text/css" media="only screen and (min-width:50px) and (max-width:567px)" href="css/style_small.css">
+            <link href='http://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>
+            <!--[if lt IE 9]>    
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+            <![endif]-->
+
+        </head><!--- end of head-->
+        
+        <div class="container">
+            
+            
+            <div class="header">
+                <a href="http://www.clickfil.org" target="_blank"></a>
+            </div> <!--- end of header -->
+
+
+
+            <p class="spending">
+                    Spending too much on <br> <span class="bold"> heating oil </span> is so 2009.
+            </p><!--- end of spending -->
+
+
+            <div class="card">
+                    <!-- <img class="giftCard" src="_images/clickfilCard.jpg" alt="Gift Card"> -->
+                    <p class="become">
+                        Become a new Clickfil<sup>&trade;</sup><br>customer and get a free<br> <span class="blue">$75 Stop & Shop<sup>&reg;</sup> gift card.</span>
+                    </p>
+            </div><!--- end of card-->
+                
+                
+            <p class="pitch">
+                        Discover how to save <span class="blue">up to 40 cents or more <br> per gallon </span>on heating oil while enjoying the <br>convenience of <span class="blue"> managing your account<br>online </span>and getting <span class="blue">reliable full service.</span>
+            </p><!--- end of pitch-->                
+                
+             <p class="footer">
+                        All content<sup> &copy; </sup>2010 Clickfil<sup>&trade;</sup>, LLC, all rights reserved. | Privacy Policy
+            </p><!---end of footer-->
+            
+      
+            <div class="sidebar">
+                    <p class="signUp">
+                        Sign up for<br>Clickfil now!
+                    </p><!--- end of signUp -->
+                    <p class="email">
+                        Enter your Email address below to get started.
+                    </p><!--- end of email-->
+                    <!--- <form> -->
+                    
+                        <input type="text" name="email" value="" class="emailAddress text" title="Email Address"  maxlength="80">
+                        <input class="button" id="toggleButton" type="submit" value="sign up today!">
+                         <!--- end of inputs-->
+                        <div class="input">
+                            <input name="checkbox" class="checkbox" type="checkbox" value="signed up for mailing list">
+                            <p> Yes, Please keep me posted on the latest information from Clickfil</p>
+                        </div><!--- end of input-->
+                    
+                    <!--- </form> -->
+
+                    <div class="price">
+                        
+                    </div><!--- end of price -->
+                    <p class="areas"> Clickfil Service Areas:</br><span class="blue">Arlington, Lexington, Medford, Woburn, Winchester</span>
+                    </p>
+                    <div class="truck">
+                    </div><!--- end of truck-->
+
+                       
+                    
+                        
+            </div><!--- end of sidebar -->
+       
+        </div><!--- end of container-->
+
+        <script type="text/javascript" src="js/jquery-1.10.2.js"></script>
+        <script type="text/javascript" src="js/Clickfil.js"></script>
+
+        </body>
+      
+        
+    </html>
+
