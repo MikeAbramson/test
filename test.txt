@@ -22,9 +22,9 @@ new test file
         <div class="container">
             
             
-            <div class="header">
+            <sectionclass="header">
                 <a href="http://www.clickfil.org" target="_blank"></a>
-            </div> <!--- end of header -->
+            </section> <!--- end of header -->
 
 
 
