@@ -1,3 +1,4 @@
+
 new test file again
 
 <!DOCTYPE html>
@@ -92,3 +93,6 @@ new test file again
         
     </html>
 
+=======
+test new branch. now with a stash!
+>>>>>>> Stashed changes
